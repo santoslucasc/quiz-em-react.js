@@ -1,0 +1,40 @@
+* {
+  margin: 0 auto;
+  text-align: center;
+}
+div {
+  background-color: rgb(202, 202, 202);
+  height: 100vh;
+}
+hr {
+  margin: 35px auto;
+  width: 80%;
+  height: 2px;
+  border: none;
+  background-color: #333;
+}
+p {
+  font-weight: 800;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
+  color: #0f8323;
+
+}
+input {
+  width: 300px;
+  
+}
+h1 {
+  padding: 20px;
+  font-weight: 800;
+
+  color: rgb(75, 75, 75);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background: linear-gradient(#006400, #55c468, #006400);
+}
+.imagem {
+  margin: 20px 0px 10px 0px;
+  width: 300px;
+  border-radius: 20px;
+  border: solid 1px black;
+}
